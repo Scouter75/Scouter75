@@ -6,7 +6,7 @@ Game Developer
 
 * 🌍  I'm based in St. Catharine's
 * ✉️  You can contact me at [brocpasma@gmail.com](mailto:brocpasma@gmail.com)
-* 🚀  I'm currently working on [Poleteroid](https://github.com/PlayNoEvil/InSpectres.git)
+* 🚀  I'm currently working on [Polteroid](https://github.com/PlayNoEvil/InSpectres.git)
 * 🧠  I'm currently developing my own 3D platformer movement system
 
 <p align="left">
